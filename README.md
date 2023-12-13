@@ -75,8 +75,4 @@ In India, the Aadhaar project is the largest biometric database in the world, wi
 This shows the constant need for improving the efficiency and security of the facial recognition system. 
 To conclude, our product is built keeping in mind the current day hurdles. The current implementation is already efficient, with numerous possibilities for development in the future according to the business needs.
 
-## 👏Our Team 
 
-<p>
-<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="620" height="320" style="float:left">
-</p>
